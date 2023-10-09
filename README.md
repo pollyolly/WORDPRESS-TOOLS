@@ -1,3 +1,3 @@
 ### Wordpress Themes
-[Free CSS HTML5 Themes](https://www.elegantthemes.com/)
+[Wordpress Themes](https://www.elegantthemes.com/)
 
