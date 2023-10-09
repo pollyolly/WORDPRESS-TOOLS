@@ -1,3 +1,3 @@
 ### Wordpress Themes
-[Wordpress Themes](https://www.elegantthemes.com/)
+[Elegant Themes](https://www.elegantthemes.com/)
 
