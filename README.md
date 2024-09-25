@@ -5,6 +5,8 @@
 
 [Best Free Themes](https://www.hostinger.ph/tutorials/best-free-wordpress-themes)
 
+[WP Moose](https://www.wpmoose.com/)
+
 ### Wordpress Plugins
 Slider
 
