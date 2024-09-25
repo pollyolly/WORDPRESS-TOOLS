@@ -20,6 +20,12 @@ Forms
 
 [Contact Form 7](https://wordpress.org/plugins/contact-form-7/)
 
+Chat
+
+[Tawk.To Live Chat](https://wordpress.org/plugins/tawkto-live-chat/)
+
+[Chaty](https://wordpress.org/plugins/chaty/)
+
 Caching plugin
 
 [Swift Performance Lite](https://wordpress.org/plugins/swift-performance-lite/)
